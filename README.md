@@ -31,7 +31,11 @@ OR
 
 * Download the faces DataSet and put it in project directory:  http://vis-www.cs.umass.edu/fddb/
 
-* Download the no faces DataSet : 
+* Download the no faces TrainSet and TestSet :
+ 
+     https://drive.google.com/drive/folders/1lrSYMFTtP7k_orCdkes-Vl5dgtGPaJUy?usp=sharing
+ 
+     https://drive.google.com/drive/folders/1vCMbBfaU6fLOsTNh6qrRNp5kqNKNW_nV?usp=sharing
 
 * Run the train.py file : `$ python3 train.py`
 
