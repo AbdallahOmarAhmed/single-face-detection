@@ -11,7 +11,7 @@ print(device)
 from DataSet import TrainDataset, TestDataset
 
 # hayper parametars
-num_epochs = 60
+num_epochs = 40
 learning_rate = 0.0003
 batch_size = 80
 
