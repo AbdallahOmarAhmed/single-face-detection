@@ -9,7 +9,7 @@ Ubuntu      " It's only tested on Ubuntu, so it may not work on Windows "
 
 GPU : Any GPU that is works with PyTorch
 
-vram : 8gb if you want to train  ' we train it in rtx 2070 '
+vram : 4gb if you want to train  ' we train it in rtx 2070 '
 
 numpy : https://numpy.org/
 
